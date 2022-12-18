@@ -6,9 +6,8 @@ body {
 .container {
   margin: 0px 166px;
 }
-
 .header {
-  background-image: url(/img/background.jpg);
+  background-image: url(./img/background.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -254,7 +253,7 @@ body {
 }
 
 .black-block {
-  background-image: url(/img/bg.jpg);
+  background-image: url(./img/bg.jpg);
   padding: 80px 0;
 }
 .left-title {
@@ -330,7 +329,7 @@ body {
 }
 
 .menu {
-  background-image: url(/img/bg-menu.png);
+  background-image: url(./img/bg-menu.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 100px;
